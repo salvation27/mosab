@@ -1,0 +1,88 @@
+
+@font-face {
+  font-family: 'Roboto-BoldCondensed';                                  
+  src:url('Roboto-BoldCondensed.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roboto-RegularCondensed';                                  
+  src:url('roboto-condensed.regular.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-Medium';                                  
+  src:url('Roboto-Medium.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-Bold';                                  
+  src:url('Roboto-Bold.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIDisplay-Light';                                  
+  src:url('SFUIDisplay-Light.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIDisplay-Medium';                                  
+  src:url('SFUIDisplay-Medium.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SFUIDisplay-regular';                                  
+  src:url('SF UI Display_regular.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIDisplay-Heavy';                                  
+  src:url('SFUIDisplay-Heavy.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIDisplay-Bold';                                  
+  src:url('SFUIDisplay-Bold.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIDisplay-Semibold';                                  
+  src:url('SFUIDisplay-Semibold.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'a_AvanteCpsLCBrk-Bold';                                  
+  src:url('aavantecpslcbrk_bold.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFUIText-Medium';                                  
+  src:url('SFUIText-Medium.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+color: #373737;
